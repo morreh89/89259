@@ -7,7 +7,7 @@ package threadlesson;
 
 /**
  *
- * @author james
+ * @author maurice
  */
 public class ThreadLesson {
 
