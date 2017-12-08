@@ -11,7 +11,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author james
+ * @author maurice
  */
 public class CrudOperations {
         private int student_no;
