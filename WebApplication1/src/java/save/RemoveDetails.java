@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author james
+ * @author maurice
  */
 @WebServlet(name = "removeDetails", urlPatterns = {"/remove"})
 public class RemoveDetails extends HttpServlet {
